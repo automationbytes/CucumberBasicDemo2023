@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.863" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Facebook Automation" name="To automate Facebook login page" time="4.686">
+<system-out><![CDATA[
+Given the user launches the facebook url....................................passed
+Then the user verifies the facebook home page...............................passed
+When the user enters "tom" in username editbox..............................passed
+And the user enters "pass123" in password editbox...........................passed
+Then the user clicks on Login button........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
